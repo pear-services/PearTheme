@@ -31,7 +31,7 @@
         <br><br>
         <h1 class="header center teal-text text-lighten-2">Pear, LLC</h1>
         <div class="row center">
-          <h5 class="header col s12 light">A Texh Services Company Located in Phoenix Arizona</h5>
+          <h5 class="header col s12 light">A Tech Services Company Located in Phoenix Arizona</h5>
         </div>
         <div class="row center">
           <a href="mailto:hello@pear.services" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Contact</a>
